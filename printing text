@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "i love bacon\n";
+    cout << "and ham\n\n";
+
+    cout << "i love bacon ";
+    cout << "and ham";
+
+    cout << "i \n love \n bacon \n and \n ham \n";
+    return 0;
+}
