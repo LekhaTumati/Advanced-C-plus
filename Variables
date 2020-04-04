@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a = 4;
+    int b = 21;
+    int sum = a + b;
+    int difference = b - a;
+    cout << sum << endl;
+    cout << difference;
+    return 0;
+}
