@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    if(5 > 3)
+    {
+        cout << "Bucky is awesome!!!!\n";
+    }
+    if(3 == 3)
+    {
+        cout << "Bucky is awesome!!!!\n";
+    }
+    if(5 != 8)
+    {
+        cout << "Bucky is awesome!!!!\n";
+    }
+    return 0;
+}
