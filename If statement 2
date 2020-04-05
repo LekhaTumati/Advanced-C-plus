@@ -1,0 +1,34 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x = 10;
+
+    if(x == 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    if(x != 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    if(x < 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    if(x > 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    if(x <= 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    if(x >= 87)
+    {
+        cout << "OMG....." << endl;
+    }
+    return 0;
+}
