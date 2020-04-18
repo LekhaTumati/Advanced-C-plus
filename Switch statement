@@ -1,0 +1,27 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+    int age = 21;
+
+    switch(age)
+    {
+    case 16:
+        cout << "Hey, you can drive now\n";
+        break;
+
+    case 18:
+        cout << "go buy some lotto tickets\n";
+        break;
+
+    case 21:
+        cout << "Buy me some beer\n";
+        break;
+
+    default:
+        cout << "Sorry you get nothing\n";
+    }
+
+}
